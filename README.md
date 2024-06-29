@@ -5,3 +5,4 @@
 4. Bitdefender: https://threatmap.bitdefender.com/
 5. FortiNet: https://threatmap.fortiguard.com/
 6. CheckPoint: https://threatmap.checkpoint.com/
+7. Talos Intelligence: https://talosintelligence.com/fullpage_maps/pulse
